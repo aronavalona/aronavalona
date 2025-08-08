@@ -6,12 +6,12 @@ Bienvenue sur mon profil GitHub ! Je suis un passionné de **Data Science** et d
 
 - 👀 Je m’intéresse à :  
   - L’intelligence artificielle, le machine learning et la science des données  
-  - Le développement web full-stack (Python, JavaScript, React, etc.)  
+  - Le développement web  
   - L’automatisation, les API et les projets open source
 
 - 💼 Compétences clés :
   - 📊 Python, pandas, scikit-learn, matplotlib, seaborn
-  - 🌐 HTML, CSS, React, Django
+  - 🌐 HTML, CSS, Django
   - 🧠 Machine Learning, DataViz
   - ☁️ Git, GitHub, API REST, Streamlit
 
